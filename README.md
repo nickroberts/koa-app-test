@@ -4,7 +4,7 @@
 * Install node v7.6.0 (preferrably with nvm).
 
 ## Setup
-This will install all of the client node modules, gulp-cli globally and the server node modules.
+This will install all of the gulp-cli globally, client node modules, and the server node modules.
 ```
 npm i
 ```
