@@ -1,7 +1,7 @@
 # Koa App Test
 
 ## Prerequisites
-Install node v.7.6.0 (preferrably with nvm).
+Install node v7.6.0 (preferrably with nvm).
 
 ## Initialization
 ```
